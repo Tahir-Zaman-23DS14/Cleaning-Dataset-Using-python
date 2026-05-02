@@ -82,7 +82,7 @@ df.dropna(thresh=len(df)*0.5, axis=1, inplace=True)
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Cleaning-Dataset-Using-python.git
+git clone https://github.com/Tahir-Zaman-23DS14/Cleaning-Dataset-Using-python.git
 cd Cleaning-Dataset-Using-python
 pip install -r requirements.txt
 ```
